@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:318191497561:android:dac77f310048e88b",
         "android_client_info": {
-          "package_name": "tabian.com.instagramclone"
+          "package_name": "ankitha.com.instagramclone"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "318191497561-6i65180hj99pv0l4o2a8bhtlbusp06t1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "tabian.com.instagramclone",
+            "package_name": "ankitha.com.instagramclone",
             "certificate_hash": "a1282f8c2b490a54cc1d7bdcefea5c630f537950"
           }
         },
